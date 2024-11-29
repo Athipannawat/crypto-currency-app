@@ -33,7 +33,7 @@ const HomePage = () => {
         <div className='logo'>
           <div className='image'><img src="https://uxwing.com/wp-content/themes/uxwing/download/e-commerce-currency-shopping/bitcoin-black-icon.png" alt="" /></div>
           <div>
-              <div className='logoTop'>COID.</div>
+              <div className='logoTop'>COID</div>
               <div className='logoButtom'>VIEWER</div>
           </div>
         </div>
